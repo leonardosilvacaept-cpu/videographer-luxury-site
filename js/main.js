@@ -104,6 +104,7 @@ let failedFrames = 0;
     function easeInCubic(value) {
         return value * value * value;
     }
+    
 
     function framePath(index) {
         const number = String(
