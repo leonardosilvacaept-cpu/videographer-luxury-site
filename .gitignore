@@ -1,2 +1,33 @@
+# macOS
 .DS_Store
+
+# Registos
 *.log
+
+# Variáveis e segredos locais
+.dev.vars
+.env
+.env.*
+!.env.example
+
+# Dependências
+node_modules/
+
+# Backups locais
+backup/
+backup-final/
+
+# Vídeos originais não otimizados
+assets/video-original/
+
+# Ficheiros temporários
+*.tmp
+*.temp
+.cache/
+
+# Wrangler e Cloudflare
+.wrangler/
+.dev.vars.*
+
+# VS Code local
+.vscode/
