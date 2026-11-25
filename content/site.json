@@ -1,0 +1,68 @@
+{
+  "site": {
+    "name": "NORTHFRAME",
+    "title": "Northframe | Cinematic Filmmaker",
+    "description": "Filmes cinematográficos para marcas, histórias e experiências."
+  },
+  "theme": {
+    "background": "#050505",
+    "foreground": "#f2eee6",
+    "muted": "#9b978f",
+    "accent": "#b79863",
+    "surface": "#0d0d0d"
+  },
+  "hero": {
+    "eyebrow": "Filmmaker · Director · Storyteller",
+    "line1": "Every frame",
+    "line2": "deserves",
+    "line3": "a soul.",
+    "description": "Filmes construídos com ritmo, textura e intenção.",
+    "scrollLabel": "Entrar na história",
+    "frameFolder": "assets/frames",
+    "framePrefix": "frame-",
+    "frameExtension": "webp",
+    "frameCount": 120,
+    "firstFrame": 1,
+    "digits": 4
+  },
+  "transition": {
+    "image": "assets/images/transition-frame.jpg",
+    "caption": "Stories in motion",
+    "title": "O instante muda. A história permanece."
+  },
+  "work": {
+    "eyebrow": "Selected work",
+    "title": "Filmes que deixam uma marca.",
+    "items": [
+      {
+        "number": "01",
+        "category": "Brand Film",
+        "title": "Quiet Power",
+        "image": "assets/images/project-01.jpg"
+      },
+      {
+        "number": "02",
+        "category": "Editorial",
+        "title": "Beyond Form",
+        "image": "assets/images/project-02.jpg"
+      },
+      {
+        "number": "03",
+        "category": "Documentary",
+        "title": "Human Light",
+        "image": "assets/images/project-03.jpg"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "The filmmaker",
+    "title": "Movimento com intenção. Imagem com memória.",
+    "description": "Da primeira ideia à montagem final, cada projeto é tratado como uma experiência visual completa.",
+    "image": "assets/images/about.jpg"
+  },
+  "contact": {
+    "eyebrow": "Start a project",
+    "title": "Vamos criar algo impossível de ignorar.",
+    "email": "hello@northframe.pt"
+  }
+}
